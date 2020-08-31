@@ -1,0 +1,14 @@
+Variables
+existen 3 tipos de variables en javascript, var, const y let y se usan para guardar distintos tipos de valores (textos, numeros, o logicos)
+
+Strings
+son un tipo de datos que incluyen todo tipo de caracteres, como palabras, numeros, caracteres, etc. Para indicar que es un string en javascript este valor debe estar entre ''
+
+Funciones (argumentos, return)
+las funciones se usan para realizar una tarea especifica como por ejemplo, sumar dos numeros, para lo cual debemos enviarle dichos numeros (argumentos) a sumar, esta funcion nos devolvera el resultado (return)
+
+Declaraciones if
+los if se usan para verificar si una condicion se cumple o no, si la condicion se cumple nos devolvera true, sino false
+
+Valores booleanos (true, false)
+son un tipo de datos (verdadero o falso) que son el resultado de una operacion logica 
