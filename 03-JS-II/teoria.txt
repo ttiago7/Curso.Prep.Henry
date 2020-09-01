@@ -1,0 +1,11 @@
+* `for`
+
+es una estructura repetitiva, eso quiere decir que todo el codigo que este dentro de esta estructura se va a repetir hasta que se cumpla una condicion de finalizacion
+Al declarar un ford creamos una variable y la iniciamos, especificamos la condicion de salida (cuando la variable cumpla una condicion) y fijamos el avance de la variable
+
+* `&&`, `||`, `!`
+
+son operadores logicos, sirven para comparar dos valores booleanos y determinar si se cumplen ambos, si ninguno se cumple o si se cumple uno de ellos
+&& (Y) es true solo si ambos valores comparados son true
+|| (O) es true solo si ambos valores comparados son false
+! (NO) sirve para negar un valor booleano anteponiendolo a una expresion, ej !true, retornaria false 
