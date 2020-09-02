@@ -1,0 +1,4 @@
+* Arrays
+este tipo de variables son una coleccion de datos, estos pueden ser de distintos tipos (int, string, boolean, function, etc)
+cuentan con funciones que nos permiten agregar o eliminar los datos almacenados en ellos tanto del principio como del final
+se acceden a los datos por si indice q inicia en 0
