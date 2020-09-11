@@ -1,0 +1,19 @@
+    * Objetos
+    los objetos en javascript intentan imitar los objetos de la vida real con sus caracteristicas y comportamiento (acciones)
+    ejemplo: objeto persona, sus propiedades podrian ser, nombre, apellido, edad, estatura, color de cabello
+    y sus acciones podrian ser: saludar, caminar, correr, etc
+    para hacer referencia a una propiedad se hace a traves de clave valor, donde clave es el nombre de la propiedad (ej nombre) y valor es el dato que tiene asignada esta propiedad (ej. juan)
+
+	* Propiedades
+    son las caracteristicas o datos de cada objeto que definimos, ejemplo nombre, color, tamaño, etc
+    en javascript estas propiedades se definen con su nombre : valor, un objeto puede tener muchas propiedades separasad por coma y de cualquier tipo (string, int, boolean, function, etc)
+
+	* Métodos
+    son las que llamamos funciones, estructuras de codigo para realizar cierta tarea, solo que toman este nombre por que estan dentro de un objeto.
+
+	* Bucle `for…in`
+    es un tipo de bucle que podemos usar para recorer las propiedades de un objeto, ya que estas no cuentan con un indice numerico
+
+	* Notación de puntos vs notación de corchetes
+    son diferentes formas de hacer referencia a las propiedades de los objetos. Por punto: objeto punto nombre de la clave ej: persona.nombre
+    De corchetes, se pone el nombre del objeto y entre corchetes el nombre de la clave entre comillas, ej: persona['nombre']
