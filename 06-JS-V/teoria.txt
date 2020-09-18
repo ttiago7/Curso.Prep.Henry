@@ -1,0 +1,6 @@
+
+* `prototype`
+se lo puede entender como un modelo en base al cual crearemos nuevos objetos, esto nos sirve para no escribir codigo redundante, ya que, podremos acceder a las propiedades y metodos del objeto prototype
+
+* _Constructors_ (de Clases)
+los constructores los usamos para crear un sin fin de objetos que comparten propiedades y metodos a partir de una 'plantilla' 
