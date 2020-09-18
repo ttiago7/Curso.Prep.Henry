@@ -1,0 +1,2 @@
+* Funciones Callback
+Es pasarle una funcion como parametro a otra funcion
